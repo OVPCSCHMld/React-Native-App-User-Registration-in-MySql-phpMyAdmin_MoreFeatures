@@ -1,0 +1,62 @@
+
+.search {
+  padding: 20px 20px;
+  margin: 14px 40px;
+  font-size: 20px;
+  border-radius: 2.5px;
+  background: rgba(212, 20, 20, 0.1);
+  color: #f8f8f8;
+}
+
+
+.title {
+  padding: 10px 60px;
+  text-align: left;
+  font-weight: bold;
+  font-size: 40px;
+  color: rgb(38, 196, 72);
+ }
+
+
+.result {
+  margin: 14px 140px;
+  display: flex; 
+  text-align: left;
+  font-weight: bold;
+  font-size: 40px;
+  color: rgb(228, 19, 165);
+ }
+
+
+ .result2 {
+  margin: 14px 40px;
+  display: flex; 
+  text-align: left;
+  font-weight: bold;
+  font-size: 40px;
+  color: rgb(228, 19, 165);
+ }
+
+.weather_func {
+  display: flex; 
+  display: inline-block; 
+  justify-content: center;
+  text-align: center;
+  width: 40%;
+  height: 95%;
+  margin: auto;
+  color: rgb(19, 37, 206);
+  /* background-image: url("Enceladus.jpg"); */
+  background-image: url("images/Enceladus.jpg"); 
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 1rem;
+}
+
+
+
+
+
+
+
+
